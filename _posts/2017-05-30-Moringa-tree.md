@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moringa ... Tree of life
+title: Moringa ... the miracle tree
 date:   2017-05-30  00:00:00 +0700
 author: Jens Krause
 
@@ -10,12 +10,12 @@ tags: ital food
 series: veggies
 series-nav-title: All about Moringa
 
-seo_description: This article explains details of our approach to Moringa
+seo_description: This is all about Moringa and how I&I use it & grow my own. 
 
 image: https://miracletrees.org/images/moringa-oleifera-powder2.jpg
 
 ---
-Here we share our first hand experiences in with growing and using Moringa in many applications. 
+I&I is Rastaman in Thailand, so I&I search for local herbs with documented health benefits to add to my diet. I&I learned about Moringa from bredren Macka B and was excited to see it growing wild and in a public places, free to use and not commercially polluted. It is served in some thai dishes, but is not overly popular in I&I experience.
 <!--more-->
 
 ## What is Moringa?
