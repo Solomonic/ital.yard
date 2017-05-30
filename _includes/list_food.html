@@ -1,7 +1,7 @@
 <ul class="invisible">
     {% for mypost in site.categories.food %}
         <li><article>
-            <h2 class="article-headline"><a title="Read full article" href="{{ mypost.url | prepend: site.baseurl }}">{{mypost.title}}</a></h2>
+            <h2 class="article-headline"><a title="Read full article" href="{{ mypost.url | prepend: site.baseurl }}"><img style="max-width:50px;" src="{{mypost.image}}"> {{mypost.title}}</a></h2>
             <div class="description">
                 <time datetime="{{ mypost.date | date_to_xmlschema }}">{{ mypost.date | date: "%-d %b %Y" }}</time>:
                 <a title="Read full article" class="post_description" href="{{ mypost.url | prepend: site.baseurl }}">{{ mypost.excerpt | remove: '<p>' | remove: '</p>' }}
