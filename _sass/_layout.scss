@@ -265,6 +265,10 @@
 
   .article-headline{
     margin-bottom:0;
+
+    img{
+        max-width: 120px;
+    }
   }
   a.post_description,
   a.post_description:hover,
