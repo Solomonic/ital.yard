@@ -15,8 +15,17 @@ seo_description: This article explains details of our approach to Moringa
 image: https://miracletrees.org/images/moringa-oleifera-powder2.jpg
 
 ---
+Here we share our first hand experiences in with growing and using Moringa in many applications. 
+<!--more-->
 
 # Moringa
+![Moringa Tree][image]
 
 ## What is Moringa?
+The tree of life. It's awesome.
+
 ## How to use it
+Leaves
+- tea
+- soup & sauces
+- 
