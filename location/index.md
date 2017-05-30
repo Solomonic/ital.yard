@@ -13,4 +13,4 @@ support: [jquery, gallery]
 
 ## The land before starting ...
 ... is not bad at all! Jah bless
-{% include gallery-layout.html gallery=site.data.galleries.location %}
+{% include gallery_layout.html gallery=site.data.galleries.location %}
