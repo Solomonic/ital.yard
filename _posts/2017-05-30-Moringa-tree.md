@@ -19,7 +19,7 @@ Here we share our first hand experiences in with growing and using Moringa in ma
 <!--more-->
 
 # Moringa
-![Moringa Tree][https://miracletrees.org/images/moringa-oleifera-powder2.jpg]
+![Moringa Tree Image]({{ image }})
 
 ## What is Moringa?
 The tree of life. It's awesome.
