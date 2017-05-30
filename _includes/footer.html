@@ -1,0 +1,48 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h3>Rasta abroad</h3>
+        <ul class="invisible">
+          <li><a href="{{ site.cv }}" target="_blank" title="Profile on stackoverflow.com"><span class="fa fa-lg fa-stack-overflow"></span> Curriculum Vitae</a></li>
+          <li><a href="{{site.git-url}}" target="_blank" title="Follow a Rasta on github.com"><span class="fa fa-lg fa-github"></span> Follow on github</a></li>
+          <li><a target="slack" href="https://slack.com/signin" title="Join the Rasta.Online team on slack.com"><span class="fa fa-lg fa-slack"></span> team on slack.com</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <h3>Contact</h3>
+        <ul class="invisible">
+           <li><a href="{{site.fb-url}}" target="facebook" title="Contact us on facebook.com"><span aria-hidden="true" title="facebook.com" aria-label="facebook.com" class="fa fa-facebook-official fa-lg"></span> Facebook</a></li>
+           <li><a href="mailto:{{ site.email }}"><span aria-hidden="true" title="Email" aria-label="Email" class="fa fa-envelope"></span> Email</a></li>
+           <li><a href="skype:{{ site.skype }}?chat"><span aria-hidden="true" title="Skype Chat" aria-label="Skype Chat" class="fa fa-skype fa-lg"></span> Skype </a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <h3>QuickLinks</h3>
+        {% include navigation_list.html %}
+      </div>
+
+    </div>
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <a href="#top"><span aria-hidden="true" title="Scroll to top" aria-label="Scroll to top" class="fa fa-arrow-circle-o-up fa-lg"></span> Back to top</a>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <a href="{{ site.baseurl }}/sitemap.xml"><span class="fa fa-sitemap fa-lg" aria-hidden="true" title="to Sitemap" aria-label="to Sitemap"></span> Sitemap</a>
+      </div>
+
+      <div id="colophone" class="footer-col footer-col-3">
+        <a href="{{ site.baseurl }}/"><span class="fa fa-copyright"> 2002-{{ site.time | date: "%Y" }}</span> All rights reserved. </a>
+    </div>
+
+  </div>
+
+  </div>
+  
+
+</footer>
+
