@@ -20,9 +20,7 @@ Here we share our first hand experiences in with growing and using Moringa in ma
 
 ## What is Moringa?
 The miracle tree with loads of positive effects, listen to **Macka B**:
-[![MackaB about Moringa](http://img.youtube.com/vi/DeuT3ynHetk/0.jpg)](http://www.youtube.com/watch?v=DeuT3ynHetk)
-![Moringa Tree Image]({{ page.image }})
-
+## [![MackaB about Moringa](http://img.youtube.com/vi/DeuT3ynHetk/0.jpg)](http://www.youtube.com/watch?v=DeuT3ynHetk)
 
 ## How to use it
 
