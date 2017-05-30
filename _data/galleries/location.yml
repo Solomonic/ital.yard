@@ -1,0 +1,108 @@
+picture_path: images/location
+preview:
+  filename: Welcome 1
+  original: 1_org.jpg
+  sizes:
+  - 1_S.jpg
+  thumbnail: 1_TH.jpg
+pictures:
+- filename: Welcome 2
+  original: 2_org.jpg
+  sizes:
+  - 2_S.jpg
+  thumbnail: 2_TH.jpg
+- filename: Welcome 3
+  original: 3_org.jpg
+  sizes:
+  - 3_S.jpg
+  thumbnail: 3_TH.jpg
+- filename: Welcome 4
+  original: 4_org.jpg
+  sizes:
+  - 4_S.jpg
+  thumbnail: 4_TH.jpg
+- filename: Welcome 5
+  original: 5_org.jpg
+  sizes:
+  - 5_S.jpg
+  thumbnail: 5_TH.jpg
+- filename: Welcome 6
+  original: 6_org.jpg
+  sizes:
+  - 6_S.jpg
+  thumbnail: 6_TH.jpg
+- filename: Welcome 7
+  original: 7_org.jpg
+  sizes:
+  - 7_S.jpg
+  thumbnail: 7_TH.jpg
+- filename: Welcome 8
+  original: 8_org.jpg
+  sizes:
+  - 8_S.jpg
+  thumbnail: 8_TH.jpg
+- filename: Welcome 9
+  original: 9_org.jpg
+  sizes:
+  - 9_S.jpg
+  thumbnail: 9_TH.jpg
+- filename: Welcome 10
+  original: 10_org.jpg
+  sizes:
+  - 10_S.jpg
+  thumbnail: 10_TH.jpg
+- filename: Welcome 11
+  original: 11_org.jpg
+  sizes:
+  - 11_S.jpg
+  thumbnail: 11_TH.jpg
+- filename: Welcome 12
+  original: 12_org.jpg
+  sizes:
+  - 12_S.jpg
+  thumbnail: 12_TH.jpg
+- filename: Welcome 13
+  original: 13_org.jpg
+  sizes:
+  - 13_S.jpg
+  thumbnail: 13_TH.jpg
+- filename: Welcome 14
+  original: 14_org.jpg
+  sizes:
+  - 14_S.jpg
+  thumbnail: 14_TH.jpg
+- filename: Welcome 15
+  original: 15_org.jpg
+  sizes:
+  - 15_S.jpg
+  thumbnail: 15_TH.jpg
+- filename: Welcome 16
+  original: 16_org.jpg
+  sizes:
+  - 16_S.jpg
+  thumbnail: 16_TH.jpg
+- filename: Welcome 17
+  original: 17_org.jpg
+  sizes:
+  - 17_S.jpg
+  thumbnail: 17_TH.jpg
+- filename: Welcome 18
+  original: 18_org.jpg
+  sizes:
+  - 18_S.jpg
+  thumbnail: 18_TH.jpg
+- filename: Welcome 19
+  original: 19_org.jpg
+  sizes:
+  - 19_S.jpg
+  thumbnail: 19_TH.jpg
+- filename: Welcome 20
+  original: 20_org.jpg
+  sizes:
+  - 20_S.jpg
+  thumbnail: 20_TH.jpg
+- filename: Welcome 21
+  original: 21_org.jpg
+  sizes:
+  - 21_S.jpg
+  thumbnail: 21_TH.jpg

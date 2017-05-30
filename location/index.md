@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: gallery
 title: Location
 
 navigation: main
 seo_description: Information about IrieYards location
 
 share: rasta
+support: [jquery, gallery]
 ---
 
 # The IrieYard Location
