@@ -19,10 +19,12 @@ Here we share our first hand experiences in with growing and using Moringa in ma
 <!--more-->
 
 # Moringa
+[![MackaB about Moringa](http://img.youtube.com/vi/DeuT3ynHetk/0.jpg)](http://www.youtube.com/watch?v=DeuT3ynHetk)
 ![Moringa Tree Image]({{ page.image }})
 
 ## What is Moringa?
 The tree of life. It's awesome.
+
 
 ## How to use it
 Leaves
