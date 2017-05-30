@@ -18,16 +18,22 @@ image: https://miracletrees.org/images/moringa-oleifera-powder2.jpg
 Here we share our first hand experiences in with growing and using Moringa in many applications. 
 <!--more-->
 
-# Moringa
+## What is Moringa?
+The miracle tree with loads of positive effects, listen to **Macka B**:
 [![MackaB about Moringa](http://img.youtube.com/vi/DeuT3ynHetk/0.jpg)](http://www.youtube.com/watch?v=DeuT3ynHetk)
 ![Moringa Tree Image]({{ page.image }})
 
-## What is Moringa?
-The tree of life. It's awesome.
-
 
 ## How to use it
-Leaves
-- tea
-- soup & sauces
-- 
+
+### Homemade tea
+![Hang them]({{site.baseurl}}/images/moringa/hanged_up.jpg)
+I&I took fresh leaves and stems, gave them a good round in the blender and used my electic oven to dry the mix on low temperature for 2h.
+![Drying Tea]({{site.baseurl}}/images/moringa/drying_tea.jpg)
+ The Tea is now already good to use, for storage purpose it needed 3 more days out in the open, but that will vary on the humitity of its surroundings.
+
+ ## Let's grow it
+
+ ### First Try: Mai 2017
+ I&I got 17 wild Moringa Seedlings and put them into earth at the beginning of the rain season 2017.
+ ![Drying Tea]({{site.baseurl}}/images/moringa/baby-trees-mai-2017.jpg)
