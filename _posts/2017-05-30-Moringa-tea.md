@@ -1,26 +1,23 @@
 ---
 layout: post
-title: Moringa ... the miracle tree
-date:   2017-05-30  00:00:00 +0700
+title: Moringa ... making tea from the tree
+date:   2017-05-30  00:01:00 +0700
 author: Jens Krause
 
 categories: food garden
 tags: ital food
 
 series: moringa
-series-nav-title: What is Moringa?
+series-nav-title: How to use Moringa?
 
-seo_description: This is all about Moringa and how I&I use it & grow my own. 
+seo_description: This is all about Moringa and how I&I use it for tea and in sauces& soups. 
 
 image: https://miracletrees.org/images/moringa-oleifera-powder2.jpg
 
 ---
-I&I is Rastaman in Thailand, so I&I search for local herbs with documented health benefits to add to my diet. I&I learned about Moringa from bredren Macka B and was excited to see it growing wild and in many public places, free to use and not commercially polluted. It is served in some thai dishes, but is not overly popular in I&I experience.
+I&I cut fresh stems with leaves of the Moringa tree. What to do with it?
 <!--more-->
 
-## What is Moringa?
-The miracle tree with loads of positive effects, listen to **Macka B**:
-## [![MackaB about Moringa](http://img.youtube.com/vi/DeuT3ynHetk/0.jpg)](http://www.youtube.com/watch?v=DeuT3ynHetk)
 
 ## How to use it
 ![Hang them]({{site.baseurl}}/images/moringa/hanged_up.jpg)
@@ -39,12 +36,3 @@ I&I took leaves and stems (5 days after the cut), gave them a good round in the 
 
  I&I brew it up 3times and get a nice the golden color and herbal-minty taste, which I&I enjoy first thing in the morning. Since Rastaman nutrition is already irie, I&I felt no overwhelming effects but it wakes me up without coffaine.
 
-## Let's grow it
-Since we want to sustain our daily food from the own garden, Moringa seems to be a perfect candidate to enrich our diet. According to I&Is research it should grow perfectly on ItalYard, with its sandy soils. Wikipedia mentions _Moringa species grow quickly in many types of environments._ which sounds awesome for a farmerman, low effort & hardiness combined with a big yield? ...Sounds too good so lets test it ... 
-
-### First Try: Mai 2017
-I&I got 17 wild Moringa Seedlings and put them into earth at the beginning of the rain season 2017. It was free and wasn't grown for commercial purpose.
-
-![Growing Moringa ... lets get started]({{site.baseurl}}/images/moringa/baby-trees-mai-2017.jpg)
-
-## ... to be continued
