@@ -5,18 +5,20 @@
 ## Growing Ital food
 Don't you panic, since I'm organic. My food is my medicine, so no fuckery allowed!
 
-### Moringa
+{% include list_food.html %}
 
-### Yams
-
-### Sweet Potatoe
-
-### Cucumber
-
-### Long Bean
-
-### Mango
-
-### Banana
+### ToDo
+- Yams
+- Sweet Potatoe
+- Cucumber
+- Long Bean
+- Mango
+- Banana
+- Cabbage
+- Garlic
+- Lemongras
+- Pepper
+- Onion
+- Papaya 
 
 
