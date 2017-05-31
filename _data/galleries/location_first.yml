@@ -4,6 +4,7 @@ preview:
   original: /FULL/00001_gallery.jpg
   sizes:
   - /FULL/00001_gallery.jpg
+  - /M/00001_gallery.jpg
   - /S/00001_gallery.jpg
   - /TH/00001_gallery.jpg
   thumbnail: /TH/00001_gallery.jpg
@@ -12,6 +13,7 @@ pictures:
   original: /FULL/00001_gallery.jpg
   sizes:
   - /FULL/00001_gallery.jpg
+  - /M/00001_gallery.jpg
   - /S/00001_gallery.jpg
   - /TH/00001_gallery.jpg
   thumbnail: /TH/00001_gallery.jpg
@@ -19,6 +21,7 @@ pictures:
   original: /FULL/00002_gallery.jpg
   sizes:
   - /FULL/00002_gallery.jpg
+  - /M/00002_gallery.jpg
   - /S/00002_gallery.jpg
   - /TH/00002_gallery.jpg
   thumbnail: /TH/00002_gallery.jpg
@@ -26,6 +29,7 @@ pictures:
   original: /FULL/00003_gallery.jpg
   sizes:
   - /FULL/00003_gallery.jpg
+  - /M/00003_gallery.jpg
   - /S/00003_gallery.jpg
   - /TH/00003_gallery.jpg
   thumbnail: /TH/00003_gallery.jpg
@@ -33,6 +37,7 @@ pictures:
   original: /FULL/00004_gallery.jpg
   sizes:
   - /FULL/00004_gallery.jpg
+  - /M/00004_gallery.jpg
   - /S/00004_gallery.jpg
   - /TH/00004_gallery.jpg
   thumbnail: /TH/00004_gallery.jpg
@@ -40,6 +45,7 @@ pictures:
   original: /FULL/00005_gallery.jpg
   sizes:
   - /FULL/00005_gallery.jpg
+  - /M/00005_gallery.jpg
   - /S/00005_gallery.jpg
   - /TH/00005_gallery.jpg
   thumbnail: /TH/00005_gallery.jpg
@@ -47,6 +53,7 @@ pictures:
   original: /FULL/00006_gallery.jpg
   sizes:
   - /FULL/00006_gallery.jpg
+  - /M/00006_gallery.jpg
   - /S/00006_gallery.jpg
   - /TH/00006_gallery.jpg
   thumbnail: /TH/00006_gallery.jpg
@@ -54,6 +61,7 @@ pictures:
   original: /FULL/00007_gallery.jpg
   sizes:
   - /FULL/00007_gallery.jpg
+  - /M/00007_gallery.jpg
   - /S/00007_gallery.jpg
   - /TH/00007_gallery.jpg
   thumbnail: /TH/00007_gallery.jpg
@@ -61,6 +69,7 @@ pictures:
   original: /FULL/00008_gallery.jpg
   sizes:
   - /FULL/00008_gallery.jpg
+  - /M/00008_gallery.jpg
   - /S/00008_gallery.jpg
   - /TH/00008_gallery.jpg
   thumbnail: /TH/00008_gallery.jpg
@@ -68,6 +77,7 @@ pictures:
   original: /FULL/00010_gallery.jpg
   sizes:
   - /FULL/00010_gallery.jpg
+  - /M/00010_gallery.jpg
   - /S/00010_gallery.jpg
   - /TH/00010_gallery.jpg
   thumbnail: /TH/00010_gallery.jpg
@@ -75,6 +85,7 @@ pictures:
   original: /FULL/00011_gallery.jpg
   sizes:
   - /FULL/00011_gallery.jpg
+  - /M/00011_gallery.jpg
   - /S/00011_gallery.jpg
   - /TH/00011_gallery.jpg
   thumbnail: /TH/00011_gallery.jpg
@@ -82,6 +93,7 @@ pictures:
   original: /FULL/00012_gallery.jpg
   sizes:
   - /FULL/00012_gallery.jpg
+  - /M/00012_gallery.jpg
   - /S/00012_gallery.jpg
   - /TH/00012_gallery.jpg
   thumbnail: /TH/00012_gallery.jpg
@@ -89,6 +101,7 @@ pictures:
   original: /FULL/00013_gallery.jpg
   sizes:
   - /FULL/00013_gallery.jpg
+  - /M/00013_gallery.jpg
   - /S/00013_gallery.jpg
   - /TH/00013_gallery.jpg
   thumbnail: /TH/00013_gallery.jpg
@@ -96,6 +109,7 @@ pictures:
   original: /FULL/00014_gallery.jpg
   sizes:
   - /FULL/00014_gallery.jpg
+  - /M/00014_gallery.jpg
   - /S/00014_gallery.jpg
   - /TH/00014_gallery.jpg
   thumbnail: /TH/00014_gallery.jpg
@@ -103,6 +117,7 @@ pictures:
   original: /FULL/00015_gallery.jpg
   sizes:
   - /FULL/00015_gallery.jpg
+  - /M/00015_gallery.jpg
   - /S/00015_gallery.jpg
   - /TH/00015_gallery.jpg
   thumbnail: /TH/00015_gallery.jpg
@@ -110,6 +125,7 @@ pictures:
   original: /FULL/00016_gallery.jpg
   sizes:
   - /FULL/00016_gallery.jpg
+  - /M/00016_gallery.jpg
   - /S/00016_gallery.jpg
   - /TH/00016_gallery.jpg
   thumbnail: /TH/00016_gallery.jpg
@@ -117,6 +133,7 @@ pictures:
   original: /FULL/00017_gallery.jpg
   sizes:
   - /FULL/00017_gallery.jpg
+  - /M/00017_gallery.jpg
   - /S/00017_gallery.jpg
   - /TH/00017_gallery.jpg
   thumbnail: /TH/00017_gallery.jpg
@@ -124,6 +141,7 @@ pictures:
   original: /FULL/00018_gallery.jpg
   sizes:
   - /FULL/00018_gallery.jpg
+  - /M/00018_gallery.jpg
   - /S/00018_gallery.jpg
   - /TH/00018_gallery.jpg
   thumbnail: /TH/00018_gallery.jpg
@@ -131,6 +149,7 @@ pictures:
   original: /FULL/00019_gallery.jpg
   sizes:
   - /FULL/00019_gallery.jpg
+  - /M/00019_gallery.jpg
   - /S/00019_gallery.jpg
   - /TH/00019_gallery.jpg
   thumbnail: /TH/00019_gallery.jpg
@@ -138,6 +157,7 @@ pictures:
   original: /FULL/00020_gallery.jpg
   sizes:
   - /FULL/00020_gallery.jpg
+  - /M/00020_gallery.jpg
   - /S/00020_gallery.jpg
   - /TH/00020_gallery.jpg
   thumbnail: /TH/00020_gallery.jpg
@@ -145,6 +165,7 @@ pictures:
   original: /FULL/00021_gallery.jpg
   sizes:
   - /FULL/00021_gallery.jpg
+  - /M/00021_gallery.jpg
   - /S/00021_gallery.jpg
   - /TH/00021_gallery.jpg
   thumbnail: /TH/00010_gallery.jpg
