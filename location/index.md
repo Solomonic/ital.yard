@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: default
 title: Location
 
 navigation: main
@@ -11,6 +11,5 @@ support: [jquery, gallery]
 
 # The IrieYard Location
 
-## The land before starting ...
-... is not bad at all! Jah bless
-{% include gallery_layout.html gallery=site.data.galleries.location %}
+## Irie
+{% include gallery_layout.html gallery=site.data.galleries.location_first %}
