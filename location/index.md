@@ -9,7 +9,8 @@ share: rasta
 support: [jquery, gallery]
 ---
 
-# The IrieYard Location
+# The ItalYard Location
+A very nice place for a Rastaman. Jah bless.
 
-## Irie
+## JahHome Irie
 {% include gallery_layout.html gallery=site.data.galleries.location_first %}
