@@ -6,19 +6,28 @@
 Don't you panic, since I'm organic. My food is my medicine, so no fuckery allowed!
 
 {% include list_food.html %}
-
-### ToDo
-- Yams
-- Sweet Potatoe
-- Cucumber
-- Long Bean
+### Tree & Fruit
 - Mango
 - Banana
+- Papaya
+- Lime
+- Pineapple
+- Coco
+
+### Vegies
+- Yams
+- Sweet Potatoe
+- Farang Potato
+- Cucumber
+- Long Bean
 - Cabbage
 - Garlic
+- Onion
+- Tomato
+- Lattice
+
+### Herb & Bush
 - Lemongras
 - Pepper
-- Onion
-- Papaya 
-
-
+- Okra
+- Chillie
