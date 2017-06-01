@@ -1,6 +1,6 @@
-# The ItalYard Project
 
-- started in June 2017
+
+_since in june 2017 ..._
 
 ## Growing Ital food
 Don't you panic, since I'm organic. My food is my medicine, so no fuckery allowed!
@@ -31,3 +31,6 @@ Don't you panic, since I'm organic. My food is my medicine, so no fuckery allowe
 - Pepper
 - Okra
 - Chillie
+
+## Videos
+
