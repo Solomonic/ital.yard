@@ -10,3 +10,9 @@ JahSun:
   channel:
   website: https://www.youtube.com
   source: youtube
+
+MackaB:
+  name: Macka B
+  channel: https://www.youtube.com/channel/UCDOfkXMiHcK6ge_4q3dGWAA
+  website: https://www.youtube.com/channel/UCDOfkXMiHcK6ge_4q3dGWAA
+  source: youtube
